@@ -40,3 +40,9 @@ https://rdrr.io/github/mtna/rds-r/man/rds.tabulate.html
 
 
 
+Minimal example of API call code in "./mtna/tn-dash/app.R"
+
+Un-chopped example of API call code in "./mtna/tn-dash/app-copy.R"
+
+
+
