@@ -1,12 +1,24 @@
+install.packages("dplyr")
+install.packages("lubridate")
+install.packages("sf")
+install.packages("mapview")
+install.packages("ggmap")
+install.packages('tidyverse')
+install.packages('ggmap')
+
+library(tidyverse)
+library(ggmap)
+library(dplyr)
+library(lubridate)
+library(sf)
+library(mapview)
+library(ggmap)
+
 library(readr)
 data <- read_csv("C:/Users/tkmor/Downloads/Knoxville_Scooter_Data/VEoRide_DataFormat_3.csv")
-#View(data)
+View(data)
 
-  library(dplyr)
-  library(lubridate)
 
-  install.packages("lubridate")
-library(lubridate)
 
 
 
